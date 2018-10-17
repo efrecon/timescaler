@@ -1,3 +1,5 @@
+# timescaleR
+
 This is a Docker image tuned for working against [timescale] DBs, with extra
 support for [PostGIS]
 
